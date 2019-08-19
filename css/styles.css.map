@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "styles.scss",
+        "_reset.scss",
+        "_grid.scss",
+        "_base.scss",
+        "_vars.scss",
+        "main.scss"
+    ],
+    "names": [],
+    "file": "styles.css"
+}
